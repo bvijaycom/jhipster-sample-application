@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "OTFkNzUzMGMwNzI1MTI1NDkzOWMzZTZmN2RlMmE0MTNlZjM5N2IyMjJmYTNmZGU4YjNiMzVmMTMwNjIzMGI0NDdlOThmMjY5ODZjMWI0OTc0ZDM2NWUzMDljZTliZDc0YWI0Zjc0ODAyYTcyMjM5MmI5OGI5ZDhhNjI5YTQxZmM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "bvijaycom",
+  "repository-name": "jhipster-sample-application"
+}
